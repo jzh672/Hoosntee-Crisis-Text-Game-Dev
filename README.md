@@ -19,4 +19,4 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 # More content about this project
 
-Check out the development specification [here](https://github.com/jzh672/Hoosntee-Crisis-Text-Game-Dev/blob/main/Hoosntee%20Crisis%20Game%20Development%20Specification.pdf)
+Check out the development specification [here](https://github.com/jzh672/Hoosntee-Crisis-Text-Game-Dev/blob/main/Hoosntee%20Crisis%20Game%20Development%20Specification.pdf).
